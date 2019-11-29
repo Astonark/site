@@ -280,5 +280,8 @@ main {
     main#home h1 .lg-heading {
       margin-top: 1rem;
       font-size: 5rem; }
+    main#home h1 .text-secondary {
+      justify-content: center;
+      align-items: center; }
   .projects {
     grid-template-columns: 1fr; } }
