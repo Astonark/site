@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "portfolio reponsive",
   "main": "index.js",
-  "homepage": "htpps://Astonark.github.io/mon-portofolio",
+  "homepage": "htpps://Astonark.github.io/site/",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
